@@ -98,19 +98,16 @@ export const questions: Question[] = [
   },
 {
     id: 16,
-    text: "What is 12 × 12?",
     difficulty: "easy",
-    correctAnswer: "144",
-    imageUrl: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800",
-    audioUrl: "https://www2.cs.uic.edu/~i101/SoundFiles/gettysburg10.wav"
+    correctAnswer: "0",
+    imageUrl: "https://i.imgur.com/hcKoaQC.jpeg",
   },
 {
     id: 17,
-    text: "What is 12 × 12?",
+    text: "Mix me well",
     difficulty: "easy",
-    correctAnswer: "144",
-    imageUrl: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800",
-    audioUrl: "https://www2.cs.uic.edu/~i101/SoundFiles/gettysburg10.wav"
+    correctAnswer: "raspberrypi",
+    imageUrl: "https://i.imgur.com/biILMWt.jpeg",
   },
 {
     id: 18,
@@ -130,11 +127,10 @@ export const questions: Question[] = [
   },
 {
     id: 20,
-    text: "What is 12 × 12?",
+    text: "Get ready for the placementsss..",
     difficulty: "easy",
-    correctAnswer: "144",
+    correctAnswer: "2000",
     imageUrl: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800",
-    audioUrl: "https://www2.cs.uic.edu/~i101/SoundFiles/gettysburg10.wav"
   },
 {
     id: 21,
@@ -153,15 +149,15 @@ export const questions: Question[] = [
     id: 25,
     text: "Decode the audio",
     difficulty: "medium",
-    correctAnswer: "93539613",
+    correctAnswer: "stegonline",
     audioUrl: "https://raw.githubusercontent.com/Keerthinarayan/vedioaudio/main/morse.wav"
   },
 {
-    id: 27,
+    id: 35,
     text: "Image Image Image..!",
     difficulty: "medium",
     correctAnswer: "Indian",
-    imageUrl: "https://i.imgur.com/043oC6a.jpeg",
+    imageUrl: "https://i.imgur.com/w3IkQgX.jpeg",
   },
 {
     id: 29,
@@ -171,7 +167,7 @@ export const questions: Question[] = [
   },
 {
     id: 31,
-    text: "Logic Gates",
+    text: "Not all states are significant, but some define the outcome(dont settle for less...)",
     difficulty: "medium",
     correctAnswer: "2945",
     imageUrl: "https://i.imgur.com/RxHKZtx.jpeg",
@@ -184,8 +180,8 @@ export const questions: Question[] = [
     imageUrl: "https://i.imgur.com/5UtwMCd.jpeg"
   },
 {
-    id: 35,
-    text: "Jigsaw(-->16)",
+    id: 27,
+    text: "Jigsawx16",
     difficulty: "medium",
     correctAnswer: "9F86d",
     imageUrl: "https://i.imgur.com/uFSLpZZ.jpeg",
@@ -209,6 +205,7 @@ export const questions: Question[] = [
     text: "Crack me if you can.. ",
     difficulty: "hard",
     correctAnswer: "exeandvol",
+    imageUrl: "https://i.imgur.com/AeLWez7.jpeg",
   },
 {
     id: 44 ,
@@ -226,8 +223,8 @@ export const questions: Question[] = [
 {
     id: 50,
     text: "Great jobb.. Go to the volunteers quicklyyy..",
-    correctAnswer: "yes",
     difficulty: "hard",
+   correctAnswer: "wtf",
 }
 ];
 
