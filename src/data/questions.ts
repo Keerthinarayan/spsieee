@@ -194,14 +194,14 @@ export const questions: Question[] = [
     text: "Guess the notes..",
     difficulty: "medium",
     correctAnswer: "CDECEFFECDECCBBC",
-    audioUrl: "https://raw.githubusercontent.com/Keerthinarayan/vedioaudio/main/findme.mp3",
+    audioUrl: "https://raw.githubusercontent.com/Keerthinarayan/vedioaudio/main/question.mp3",
   },
 {
     id: 41,
     text: "Crack me if you can.. ",
     difficulty: "hard",
     correctAnswer: "exeandvol",
-    imageUrl: "https://i.imgur.com/AeLWez7.jpeg",
+    imageUrl: "https://i.imgur.com/HNyXUYI.jpeg",
   },
 {
     id: 44 ,
