@@ -21,7 +21,7 @@ export const questions: Question[] = [
   },
   {
     id: 4,
-    text: "Task : @echo off > sps.txt \n echo SPS_BMSIT >> sps.txt \n sps.txt \n call us when this is done",
+    text: "Task : @echo off > sps.txt ; echo SPS_BMSIT >> sps.txt ; sps.txt ; call us when this is done",
     difficulty: "easy",
     correctAnswer: "volc",
   },
@@ -45,7 +45,6 @@ export const questions: Question[] = [
   },
 {
     id: 8,
-    text:"",
     difficulty: "easy",
     correctAnswer: "flag",
     imageUrl: "https://i.imgur.com/M47w1Cr.jpeg",
@@ -111,26 +110,23 @@ export const questions: Question[] = [
   },
 {
     id: 18,
-    text: "What is 12 × 12?",
+    text: "Time to chilll.. Impress us with a pickup line",
     difficulty: "easy",
-    correctAnswer: "144",
-    imageUrl: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800",
-    audioUrl: "https://www2.cs.uic.edu/~i101/SoundFiles/gettysburg10.wav"
+    correctAnswer: "goodone",
   },
 {
     id: 19,
-    text: "What is 12 × 12?",
+    text: "Guess the phrase. Your English matters here..",
     difficulty: "easy",
-    correctAnswer: "144",
-    imageUrl: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800",
-    audioUrl: "https://www2.cs.uic.edu/~i101/SoundFiles/gettysburg10.wav"
+    correctAnswer: "six feet under the ground",
+    imageUrl: "https://i.imgur.com/Cm7nrgE.jpeg",
   },
 {
     id: 20,
     text: "Get ready for the placementsss..",
     difficulty: "easy",
     correctAnswer: "2000",
-    imageUrl: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800",
+    imageUrl: "https://i.imgur.com/nytGLbX.jpeg",
   },
 {
     id: 21,
@@ -176,8 +172,8 @@ export const questions: Question[] = [
     id: 33,
     text: " HaHa.. HTML..",
     difficulty: "medium",
-    correctAnswer: "29101217202324",
-    imageUrl: "https://i.imgur.com/5UtwMCd.jpeg"
+    correctAnswer: "2910121720232427",
+    imageUrl: "https://i.imgur.com/5UtwMCd.jpeg",
   },
 {
     id: 27,
@@ -191,14 +187,14 @@ export const questions: Question[] = [
     text: "Nooo.. not againnn..",
     difficulty: "medium",
     correctAnswer: "juice",
-    audioUrl: "https://raw.githubusercontent.com/Keerthinarayan/vedioaudio/main/findme.mp3"
+    audioUrl: "https://raw.githubusercontent.com/Keerthinarayan/vedioaudio/main/findme.mp3",
   },
 {
     id: 39,
-    text: "What is 12 × 12?",
+    text: "Guess the notes..",
     difficulty: "medium",
-    correctAnswer: "29101217202324",
-    imageUrl: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800",
+    correctAnswer: "CDECEFFECDECCBBC",
+    audioUrl: "https://raw.githubusercontent.com/Keerthinarayan/vedioaudio/main/findme.mp3",
   },
 {
     id: 41,
@@ -212,7 +208,7 @@ export const questions: Question[] = [
     text: "Anonymousss...",
     difficulty: "hard",
     correctAnswer: "Arduino",
-    audioUrl: "https://raw.githubusercontent.com/Keerthinarayan/vedioaudio/main/hard.wav"
+    audioUrl: "https://raw.githubusercontent.com/Keerthinarayan/vedioaudio/main/hard.wav",
   },
 {
     id: 47,
@@ -224,7 +220,7 @@ export const questions: Question[] = [
     id: 50,
     text: "Great jobb.. Go to the volunteers quicklyyy..",
     difficulty: "hard",
-   correctAnswer: "wtf",
+   correctAnswer: "teamsps",
 }
 ];
 
